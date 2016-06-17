@@ -1,5 +1,5 @@
 #!/bin/bash
-sudo --assume-yes add-apt-repository ppa:bitcoin/bitcoin
+sudo add-apt-repository ppa:bitcoin/bitcoin
 sudo apt-get update
 sudo apt-get -y --force-yes install bitcoin-qt </dev/null
 
