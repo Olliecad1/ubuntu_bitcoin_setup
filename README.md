@@ -6,4 +6,4 @@ Bash script for setting up Bitcoin on ubuntu
 
 3. Running the script ./Bitcoin.sh
 
-if you wish to tip me this is my address 1E6F7MHwz7fdhikKFSnyCd6ZJ5e8h6nWZF
+if you wish to tip me this is my address 1M7HN2wh32YU4AMfMatrAnCcdyfmuow7V3
