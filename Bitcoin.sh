@@ -1,7 +1,7 @@
 #!/bin/bash
 sudo add-apt-repository ppa:bitcoin/bitcoin
 sudo apt-get update
-sudo apt-get -y --force-yes install bitcoin-qt </dev/null
+sudo apt-get install bitcoin-qt bitcoind
 
 cd ~/
 mkdir .bitcoin
