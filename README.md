@@ -1,4 +1,4 @@
-Bash script for setting up Bitcoin on ubuntu 
+Bash script for setting up Bitcoin 0.15 on ubuntu 
 
 1. Downloading the bash script git clone https://github.com/Olliecad1/ubuntu_bitcoin_setup/blob/master/Bitcoin.sh
 
