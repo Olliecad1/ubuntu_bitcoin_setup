@@ -9,7 +9,12 @@ git clone https://github.com/Olliecad1/ubuntu_bitcoin_setup
 cd ubuntu_bitcoin_setup
 ```
 
-3. Running the script 
+3. Execute the bash script
+```
+sudo chmod +x ./Bitcoin.sh
+```
+
+4. Running the script 
 ```
 ./Bitcoin.sh
 ```
